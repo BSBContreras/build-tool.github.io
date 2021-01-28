@@ -1,0 +1,25 @@
+{
+  "files": {
+    "main.css": "/static/css/main.43b56764.chunk.css",
+    "main.js": "/static/js/main.1da4120c.chunk.js",
+    "main.js.map": "/static/js/main.1da4120c.chunk.js.map",
+    "runtime-main.js": "/static/js/runtime-main.4e64986e.js",
+    "runtime-main.js.map": "/static/js/runtime-main.4e64986e.js.map",
+    "static/js/2.825bea2e.chunk.js": "/static/js/2.825bea2e.chunk.js",
+    "static/js/2.825bea2e.chunk.js.map": "/static/js/2.825bea2e.chunk.js.map",
+    "index.html": "/index.html",
+    "precache-manifest.b0d34d96bb37f344571f95ae1bb798da.js": "/precache-manifest.b0d34d96bb37f344571f95ae1bb798da.js",
+    "service-worker.js": "/service-worker.js",
+    "static/css/main.43b56764.chunk.css.map": "/static/css/main.43b56764.chunk.css.map",
+    "static/js/2.825bea2e.chunk.js.LICENSE": "/static/js/2.825bea2e.chunk.js.LICENSE",
+    "static/media/completed_steps.svg": "/static/media/completed_steps.315809f6.svg",
+    "static/media/instant_information.svg": "/static/media/instant_information.7da78e06.svg",
+    "static/media/select_website.svg": "/static/media/select_website.e95c4387.svg"
+  },
+  "entrypoints": [
+    "static/js/runtime-main.4e64986e.js",
+    "static/js/2.825bea2e.chunk.js",
+    "static/css/main.43b56764.chunk.css",
+    "static/js/main.1da4120c.chunk.js"
+  ]
+}
